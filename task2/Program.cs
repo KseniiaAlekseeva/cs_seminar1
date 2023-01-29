@@ -16,7 +16,7 @@ while (corr == false)
         if (dayNumber == 4) dayName = "Thursday";
         if (dayNumber == 5) dayName = "Friday";
         if (dayNumber == 6) dayName = "Saturday";
-        if (dayNumber == 7) dayName = "Sinday";
+        if (dayNumber == 7) dayName = "Sunday";
         Console.WriteLine(dayName);
     }
     else Console.WriteLine("Wrong number!");
